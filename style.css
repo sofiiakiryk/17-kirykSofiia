@@ -1,0 +1,29 @@
+.border {
+        border-left: 6px solid rgb(207, 39, 92);
+        height: 25px;
+       display: flex;
+        width: 95px;
+        font-family: 'Lato', sans-serif;
+            font-family: 'Montserrat', sans-serif;
+           color: chocolate;
+        text-decoration: none;
+        padding:25px 35px  ;
+        text-align: center;
+     align-items: center;
+    }
+      .border:hover {border-left: 6px solid rgb(234, 105, 105);
+            color: white;
+            background-color: crimson;
+            height: 25px;
+            display: flex;
+            width: 95px;
+            font-family: 'Lato', sans-serif;
+            font-family: 'Montserrat', sans-serif;
+            text-decoration: none;
+        align-items: center;}
+  
+   
+
+
+
+  
